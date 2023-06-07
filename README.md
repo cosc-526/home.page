@@ -1,7 +1,7 @@
 ## Introduction to Data Mining - Source documents page   
 [`syllabus.intro.data.mine.cosc.five.two.six.pdf`](https://github.com/cosc-526/home.page/files/11682380/syllabus.intro.data.mine.cosc.five.two.six.pdf)  
 [`reference.library.Python.pdf`](https://github.com/cosc-526/home.page/files/11682377/reference.library.Python.pdf)   
-[colab](https://colab.research.google.com/)  
+[colab](https://colab.research.google.com/), google features built on top of Notebooks.  
 [Jupyter.Notebooks.install](https://jupyter.org/install)  
 [JupyterLite.Cloud](https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb), aka web.based Python  
 => note: cloud jupyterlite => great utility!  
