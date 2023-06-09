@@ -8,7 +8,7 @@ c) [`reference.library.py.functions.pdf`](https://github.com/cosc-526/home.page/
 - [Jupyter.Notebooks.install](https://jupyter.org/install)  
 - [JupyterLite.Cloud](https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb), aka web.based Python  
 - - jupyterlite cloud => great utility!  
-- - `Don't used for PySpark!`  
+- - `use of PySpark in lite not recommended`  
 
 Canvas has complete syllabus  
 ![g landing page](https://github.com/cosc-526/cosc.526.home.page/assets/133147275/b7d8fb79-5a5e-4e23-a0ad-a3e4b4af8ad9)  
