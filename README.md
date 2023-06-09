@@ -10,6 +10,6 @@ c) [`reference.library.py.functions.pdf`](https://github.com/cosc-526/home.page/
 - - jupyterlite cloud => great utility!  
 - - `use of PySpark in lite not recommended`  
 
-Canvas has complete syllabus  
+see canvas for exhaustive syllabi items
 ![g landing page](https://github.com/cosc-526/cosc.526.home.page/assets/133147275/b7d8fb79-5a5e-4e23-a0ad-a3e4b4af8ad9)  
 ![g landing page](https://github.com/cosc-526/cosc.526.home.page/assets/133147275/cce139e0-0f57-4343-b6a5-31d69aed1002)  
