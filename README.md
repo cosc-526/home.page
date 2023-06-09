@@ -1,4 +1,4 @@
-## Introduction to Data Mining - Source documents page   
+## Introduction to Data.M.i.n.i.n.g.  
 a) [`syllabus.intro.data.mine.cosc.five.two.six.pdf`](https://github.com/cosc-526/home.page/files/11682380/syllabus.intro.data.mine.cosc.five.two.six.pdf)  
 b) [`reference.library.data.containers.conditionals.iterators.functions.libraries.transformers.classes.pdf`](https://github.com/cosc-526/home.page/files/11682632/reference.library.data.containers.conditionals.iterators.functions.libraries.transformers.classes.pdf)  
 c) [`reference.library.py.functions.pdf`](https://github.com/cosc-526/home.page/files/11682628/reference.library.py.functions.pdf)  
