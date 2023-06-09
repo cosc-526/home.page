@@ -1,8 +1,7 @@
 ## Introduction to Data Mining - Source documents page   
 a) [`syllabus.intro.data.mine.cosc.five.two.six.pdf`](https://github.com/cosc-526/home.page/files/11682380/syllabus.intro.data.mine.cosc.five.two.six.pdf)  
-b) [`reference.library.Python.pdf`](https://github.com/cosc-526/home.page/files/11682377/reference.library.Python.pdf)   
-c) [`reference.library.data.containers.conditionals.iterators.functions.libraries.transformers.classes.pdf`](https://github.com/cosc-526/home.page/files/11682632/reference.library.data.containers.conditionals.iterators.functions.libraries.transformers.classes.pdf)  
-d) [`reference.library.py.functions.pdf`](https://github.com/cosc-526/home.page/files/11682628/reference.library.py.functions.pdf)  
+b) [`reference.library.data.containers.conditionals.iterators.functions.libraries.transformers.classes.pdf`](https://github.com/cosc-526/home.page/files/11682632/reference.library.data.containers.conditionals.iterators.functions.libraries.transformers.classes.pdf)  
+c) [`reference.library.py.functions.pdf`](https://github.com/cosc-526/home.page/files/11682628/reference.library.py.functions.pdf)  
 
 `Python software`  
 - [colab](https://colab.research.google.com/), google features built on top of Notebooks.  
