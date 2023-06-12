@@ -1,4 +1,4 @@
-PassengerId,Survived,Pclass,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+passengerId,survived,pclass,sex,age,sibsp,parch,ticket,fare,cabin,embarked
 892,?,3,male,34.5,0,0,330911,7.8292,,Q
 893,?,3,female,47,1,0,363272,7,,S
 894,?,2,male,62,0,0,240276,9.6875,,Q
