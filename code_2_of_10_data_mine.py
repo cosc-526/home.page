@@ -9,7 +9,7 @@ Original file is located at
 # **`M.0.Overview.and.Library.installation.instructions`**
 
 ## **`I. how.To use course codebook`**
-1. Notebook works in both Jupyter Notebooks & Colab.
+1. Notebook works in both Jupyter_Notebooks & Colab.
 2. Google built [colab](https://colab.research.google.com/) on top of Notebooks to add more features.
 3. Cosc.526 was configured in Colab with expand/collapse sectioning.
 4. There are 9 parent sections for each course module.
@@ -1583,7 +1583,7 @@ Use the stages to organize thinking, prepare analysis, machine learning, and res
 - Calculate the prediction accuracy of the excluded plays.
 
 `Stage 4: Model Evaluation`
-- Assess the accuracy of the trained model using various evaluation techniques
+- Assess the accuracy of the trained model using various evaluation techniques.
 => cross-validation, confusion matrix, precision, recall, and F1 score.
 
 `Stage 5: Visualization`
@@ -1883,14 +1883,14 @@ Braund, Mr. Owen Harris
 ```
 ==> 1.2 - Identify missing values in a table
 passengerId      0
-survived         0
-pclass           0
-sex              0
-age            177
-sibsp            0
-parch            0
-fare             0
-embarked         2
+survived             0
+pclass                 0
+sex                      0
+age                     177
+sibsp                   0
+parch                  0
+fare                     0
+embarked           2
 dtype: int64
 
 ----------------------------------------
@@ -1916,10 +1916,10 @@ dtype: int64
 `=> LEARNING MOMENT`
 `Visual includes new normalized age value performed in Task.2`
 - image shows how outliers introduce age [bias](https://en.wikipedia.org/wiki/Bias_(statistics) given most people around age 30
-- this doesn't indicate you should or shouldn't exclude the values but illustrates why its important to methodically inspect the data
-![outlier graphic](https://github.com/cosc-526/home.page/blob/graphics/g.M2.titanic.png?raw=true)
+- this doesn't indicate you should or shouldn't exclude the values but
+illustrates why its important to methodically inspect the data
 - [bias](https://en.wikipedia.org/wiki/Bias_(statistics)) is a deep topic out of scope for this class but!
-- READ chapter 2 of "[ntroduction to data Mining](https://github.com/FaizSaeed/Data-Science-Course/blob/master/Book/Introduction%20to%20Data%20Mining_Pang%20Ning%20Tan.pdf) by Tan, Steinbach, and Kumar.
+- READ chapter 2 of "[ntroduction to data Mining](https://github.com/FaizSaeed/Data-Science-Course/blob/master/Book/  Introduction%20to%20Data%20Mining_Pang%20Ning%20Tan.pdf) by Tan, Steinbach, and Kumar.
 
 `=> LEARNING MOMENT - Quality algorithm textbooks`
 - It's a quality data mining textbook worth adding to your library.
