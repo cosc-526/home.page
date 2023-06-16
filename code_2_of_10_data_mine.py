@@ -7,11 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1Su1KmiJDoYSAmbQD_J-Riob1QGyvP_Pr
 
 # **`M.0.Overview.and.Library.installation.instructions`**
-"""
 
-10500*24
-
-"""## **`I. how.To use course codebook`**
+## **`I. how.To use course codebook`**
 1. Notebook works in both Jupyter Notebooks & Colab.
 2. Google built [colab](https://colab.research.google.com/) on top of Notebooks to add more features.
 3. Cosc.526 was configured in Colab with expand/collapse sectioning.
@@ -654,12 +651,7 @@ Maria Sklodowska-Curie
 Pierre Curie
 ```
 
-
-"""
-
-
-
-"""#### Task.3.solution
+#### Task.3.solution
 
 ```
 3.0 "requests" library provides a means to read data at a website
@@ -1330,21 +1322,25 @@ sc.stop()
 ![Matryoshkas](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Matryoshka_transparent.png/220px-Matryoshka_transparent.png "dolls") ![Matryoshkas](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Floral_matryoshka_set_2_smallest_doll_nested.JPG/220px-Floral_matryoshka_set_2_smallest_doll_nested.JPG)
 - Data pack and unpack is similar to nested Russian [Matryoshka dolls](https://en.wikipedia.org/wiki/Matryoshka_doll)
 
-- Why essential? Data nesting to pack, unpack, and reference items facilitates
-data transformations to suit analysis purpose w transformation and reporting.
+`Why essential?` Data nesting to pack, unpack, and reference items facilitates
+- data transformations to suit analysis purpose w transformation and reporting.
 => amongst tuple, list, dictionary, string, sets, and DataFrames + more
-- `Goal.1:` use words to explain how data is [nested](https://en.wikipedia.org/wiki/Nesting_(computing)) in Python built-in data objects
-=> `[`..mother.doll..`(`..child.1.doll..`)` `{`..child.2.doll..`}`..close.child.1..`)`..close.mother`]`
-== `Q` What is ? ==>  [ ( {...} ) ]
-=> `Answer:` a `dictionary` is nested in a `tuple` that is nested in a `list`
 
-- `Goal.2:` build proficiency with nesting mechanics, ie transformation
-=> `How?` using iterators, conditionals, and functions
+`Goal.1:` use words to explain how data is [nested](https://en.wikipedia.org/wiki/Nesting_(computing)) in Python built-in data objects
+- `[`..mother.doll..`(`..child.1.doll..`)` `{`..child.2.doll..`}`..close.  child.1..`)`..close.mother`]`
+=> `Q:` What is ? ==>  [ ( {...} ) ]
+=> `Answer:` a `dictionary` is *nested* in a `tuple` that is *nested* in a `list`
+
+`Goal.2:` build proficiency with nesting mechanics, ie transformation
+- `How?` using iterators, conditionals, and functions
 => to rearrange and parse datum items to facilitate inquiry.
 
 #### **`Resources`**
-- [`course.reference.library::`data.objects.iterators.functions.transformers](https://github.com/cosc-526/home.page/files/11682632/reference.library.data.containers.conditionals.iterators.functions.libraries.transformers.classes.pdf)
-- [nesting](https://en.wikipedia.org/wiki/Nesting_(computing)) - [data transformation](https://en.wikipedia.org/wiki/Data_transformation_(computing))
+`course.reference.library::`
+- [data.objects.iterators.functions.transformers](https://github.com/cosc-526/home.page/files/11682632/reference.library.data.containers.conditionals.iterators.functions.libraries.transformers.classes.pdf)
+`how.To`
+=> [nesting](https://en.wikipedia.org/wiki/Nesting_(computing))
+=> [data transformation](https://en.wikipedia.org/wiki/Data_transformation_(computing))
 
 ### **`Task.0`**  - Answer Python core data objects
 
